@@ -1,6 +1,6 @@
-# Quantum Bot
+# HiOS
 
-# Why we create Quantum Bot?
+# Why we create HiOS?
 
 AI should be accessible for everyone. We now have some products that people can use. However, for AI based data processing, only small amount of people who know programming and know AI can access it. 
 
